@@ -5,7 +5,7 @@
 [![Elon's GitHub stats](https://github-readme-stats.vercel.app/api?username=elonezra&show_icons=true&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats&show_icons=true) &emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elonezra&size_weight=0.5&count_weight=0.5)
 
 
- &emsp; [![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=Elon-and-Yosef-games-design&repo=Protests)]([https://github.com/elonezra/deeplearningproject](https://github.com/Elon-and-Yosef-games-design/Protests))
+[![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=elonezra&repo=deeplearningproject)](https://github.com/elonezra/deeplearningproject) &emsp; [![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=Elon-and-Yosef-games-design&repo=Protests)]([https://github.com/elonezra/deeplearningproject](https://github.com/Elon-and-Yosef-games-design/Protests))
 
 
 
