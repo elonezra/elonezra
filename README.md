@@ -8,7 +8,7 @@
 [![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=elonezra&repo=deeplearningproject)](https://github.com/elonezra/deeplearningproject) &emsp; [![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=Elon-and-Yosef-games-design&repo=Protests)](https://github.com/Elon-and-Yosef-games-design/Protests)
 
 ## Reaserchs and mini reaserchs
-[![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=elonezra&repo=secSVM-research)](https://github.com/elonezra/secSVM-research)
+[![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=elonezra&repo=secSVM-research)](https://github.com/elonezra/secSVM-research) &emsp; [![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=Avi-and-Elon-Project-group&repo=GPTuring)](https://github.com/Avi-and-Elon-Project-group/GPTuring)
 
 <!--
 [![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=Zion-games&repo=ClouthShop)](https://github.com/Zion-games/ClouthShop)
